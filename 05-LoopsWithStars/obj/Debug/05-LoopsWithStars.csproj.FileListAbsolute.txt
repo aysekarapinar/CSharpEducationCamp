@@ -1,0 +1,7 @@
+C:\Users\ayseo\source\repos\CSharpEducationCamp\05-\bin\Debug\05-.exe.config
+C:\Users\ayseo\source\repos\CSharpEducationCamp\05-\bin\Debug\05-.exe
+C:\Users\ayseo\source\repos\CSharpEducationCamp\05-\bin\Debug\05-.pdb
+C:\Users\ayseo\source\repos\CSharpEducationCamp\05-\obj\Debug\05-LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp\05-\obj\Debug\05-LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp\05-\obj\Debug\05-.exe
+C:\Users\ayseo\source\repos\CSharpEducationCamp\05-\obj\Debug\05-.pdb
