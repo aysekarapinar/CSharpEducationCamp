@@ -1,0 +1,7 @@
+C:\Users\ayseo\source\repos\CSharpEducationCamp\07_ForeachLoops\bin\Debug\07_ForeachLoops.exe.config
+C:\Users\ayseo\source\repos\CSharpEducationCamp\07_ForeachLoops\bin\Debug\07_ForeachLoops.exe
+C:\Users\ayseo\source\repos\CSharpEducationCamp\07_ForeachLoops\bin\Debug\07_ForeachLoops.pdb
+C:\Users\ayseo\source\repos\CSharpEducationCamp\07_ForeachLoops\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp\07_ForeachLoops\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp\07_ForeachLoops\obj\Debug\07_ForeachLoops.exe
+C:\Users\ayseo\source\repos\CSharpEducationCamp\07_ForeachLoops\obj\Debug\07_ForeachLoops.pdb
