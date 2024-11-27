@@ -1,0 +1,7 @@
+C:\Users\ayseo\source\repos\CSharpEducationCamp\10_DatabeseCrud\bin\Debug\10_DatabeseCrud.exe.config
+C:\Users\ayseo\source\repos\CSharpEducationCamp\10_DatabeseCrud\bin\Debug\10_DatabeseCrud.exe
+C:\Users\ayseo\source\repos\CSharpEducationCamp\10_DatabeseCrud\bin\Debug\10_DatabeseCrud.pdb
+C:\Users\ayseo\source\repos\CSharpEducationCamp\10_DatabeseCrud\obj\Debug\10_DatabeseCrud.csproj.AssemblyReference.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp\10_DatabeseCrud\obj\Debug\10_DatabeseCrud.csproj.CoreCompileInputs.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp\10_DatabeseCrud\obj\Debug\10_DatabeseCrud.exe
+C:\Users\ayseo\source\repos\CSharpEducationCamp\10_DatabeseCrud\obj\Debug\10_DatabeseCrud.pdb
