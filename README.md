@@ -241,6 +241,8 @@ Bu projede, **Entity Framework** kullanılarak bir tur uygulamasında **konum y�
  
 ## Proje 17: Entity Framework Metotları ve LINQ Sorgular
 
+ ![Image Alt](https://github.com/aysekarapinar/CSharpEducationCamp/blob/fb5cf26d748d235d44d1b1f599b25b333fd3c4d2/FrmStatistics.jpg)
+
 Bu projede, **Entity Framework** ve **LINQ** kullanılarak veri sorgulama ve manipülasyonu işlemleri gerçekleştirilmiştir. Veritabanı işlemlerinin performanslı ve okunabilir bir şekilde yapılması hedeflenmiştir.   
 - **Konu**: Entity Framework metotları ve LINQ sorguları ile veri yönetimi.
 - **Amaç**:
@@ -258,9 +260,3 @@ Bu projede, **Entity Framework** ve **LINQ** kullanılarak veri sorgulama ve man
 2. **DbContext Sınıfı**: Veritabanı bağlantısı ve işlemleri yöneten sınıf.
 3. **CRUD İşlemleri**: Ekleme, güncelleme, silme ve listeleme.
 4. **LINQ Sorguları**: Veritabanından veri çekme ve işleme.
-
- 
-
-
-
- 
