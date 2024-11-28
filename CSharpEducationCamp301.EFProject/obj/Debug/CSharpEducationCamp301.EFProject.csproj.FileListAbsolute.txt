@@ -1,0 +1,17 @@
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\bin\Debug\CSharpEducationCamp301.EFProject.exe.config
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\bin\Debug\CSharpEducationCamp301.EFProject.exe
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\bin\Debug\CSharpEducationCamp301.EFProject.pdb
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\obj\Debug\CSharpEducationCamp301.EFProject.csproj.AssemblyReference.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\obj\Debug\CSharpEducationCamp301.EFProject.Form1.resources
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\obj\Debug\CSharpEducationCamp301.EFProject.Properties.Resources.resources
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\obj\Debug\CSharpEducationCamp301.EFProject.csproj.GenerateResource.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\obj\Debug\CSharpEducationCamp301.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\obj\Debug\CSharpEd.89E243D4.Up2Date
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\obj\Debug\CSharpEducationCamp301.EFProject.exe
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\obj\Debug\CSharpEducationCamp301.EFProject.pdb
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\obj\Debug\CSharpEducationCamp301.EFProject.txtId.resources
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EFProject\obj\Debug\CSharpEducationCamp301.EFProject.FrmStatistics.resources
