@@ -1,0 +1,9 @@
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.PresentationLayer\bin\Debug\CSharpEducationCamp301.PresentationLayer.exe.config
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.PresentationLayer\bin\Debug\CSharpEducationCamp301.PresentationLayer.exe
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.PresentationLayer\bin\Debug\CSharpEducationCamp301.PresentationLayer.pdb
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.PresentationLayer\obj\Debug\CSharpEducationCamp301.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.PresentationLayer\obj\Debug\CSharpEducationCamp301.PresentationLayer.Properties.Resources.resources
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.PresentationLayer\obj\Debug\CSharpEducationCamp301.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.PresentationLayer\obj\Debug\CSharpEducationCamp301.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.PresentationLayer\obj\Debug\CSharpEducationCamp301.PresentationLayer.exe
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.PresentationLayer\obj\Debug\CSharpEducationCamp301.PresentationLayer.pdb
