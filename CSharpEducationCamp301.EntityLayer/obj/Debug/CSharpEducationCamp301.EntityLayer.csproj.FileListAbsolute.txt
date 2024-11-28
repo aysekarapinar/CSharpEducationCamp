@@ -1,0 +1,12 @@
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EntityLayer\bin\Debug\CSharpEducationCamp301.EntityLayer.dll.config
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EntityLayer\bin\Debug\CSharpEducationCamp301.EntityLayer.dll
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EntityLayer\bin\Debug\CSharpEducationCamp301.EntityLayer.pdb
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EntityLayer\obj\Debug\CSharpEducationCamp301.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EntityLayer\obj\Debug\CSharpEducationCamp301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EntityLayer\obj\Debug\CSharpEd.8605A26C.Up2Date
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EntityLayer\obj\Debug\CSharpEducationCamp301.EntityLayer.dll
+C:\Users\ayseo\source\repos\CSharpEducationCamp301\CSharpEducationCamp301.EntityLayer\obj\Debug\CSharpEducationCamp301.EntityLayer.pdb
